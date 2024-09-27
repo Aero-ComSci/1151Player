@@ -1,4 +1,4 @@
-# Activity 1.1.4
+# Activity 1.1.5
 
 
 * Utilize this read me to showcase the project.
@@ -7,110 +7,106 @@
 * [Stack Edit for markdown editing](https://stackedit.io)
 
 * Write a description of what the program does, who is it for?
----
-
-
-
-# [1.1.4 **Local and Global Variables: Guessing Game \- Two Player**](#1.1.4-local-and-global-variables:-guessing-game---two-player) {#1.1.4-local-and-global-variables:-guessing-game---two-player}
-
-### [Book Link](https://pltw.read.inkling.com/a/b/71ce293152cf4873b7395f3d59c64a57/p/34fcafaa509d40dcae30604ef2033cdc)
-
-[Mini Video Walkthrough](https://youtu.be/V8kDifisQqY)
-
-## Questions about the Activity as you work. 
-
-#### Description Of The App according to User Story
-
-```
-
-```
-
-## BackLog
-
-| Feature | Status | Notes |
-| :---- | :---- | :---- |
-| Nicer User Interface | In progress | Use a user interface that allows the user to use a drop down or slider for the number. Cuts the number down as they pick the right num. |
-| One player feature Random Secret Number | Not started |  |
-| Two Player game feature Who can guess the number first. | Not started |  |
-|  | Not started |  |
-
-![image](https://github.com/user-attachments/assets/3770273b-1c5f-4e9f-b3d1-d7c51921bd46)
-
-#### Write or create a Mock up giving a better look and feel to the app.
-Place an image of the mock up here or at least create a table showing the flow of the objects.
 ```
 
 
 ```
 
-#### **Reflection Questions:** 
-
-* #### What life experiences have impacted your thinking about app design?
 
 
+## 1.1.5 Guessing Game \- One Player
+
+## 
+
+### Pair Programming\!\!\!\! **:** 1.5 points
+
+Summarize what pair programming is & describe characteristics of successful pair programming teams.
 ```
 
 ```
 
+## Using Loops & Implementing a Loop: 2 points
 
-* #### What perspectives on app design do you think would be useful to complement your own?
-
-  	
+In programming, what is a loop?
+```
 
 ```
+
+What does it mean to increment?
+```
+
+
+```
+
+### Using Variables in Loops, Using Local Variables, While Loop to Generate a Random Number, While Loops Inside a Local Variable, & Incrementing Variables Through Counted Loops: 1.5 points
+
+1-18 Insert a screenshot of your code here. Did you run into any errors? If so, what were they and how did you fix them?
+```
+
+
+```
+
+### Resetting the App Play & Hiding the Secret Number: 1 point
+
+19-24 Insert your NEW code only: 
+```
+
+```
+
+## Using a Clock to Countdown: 4 points
+
+25-39 Insert a screenshot of your work here (Designer View, Blocks View (make sure I can see your comments\!\!\!) & a screenshot from using the app on your phone).  Note: I will want to see your app running in class with all of your personalized changes\!\!
+
+```
+
+
+```
+
+## CONCLUSION: 2 points
+
+1\.   What are two distinct difficulties or opportunities you encountered and how were they resolved or incorporated?
+
+```
+
+
+```
+
+2\. Describe the incremental and iterative development process of your program.
+
+```
+
+
+```
+
+3\.  Consider the backlog that you learned about in the previous activity. Choose an app that you want to make or another as directed by your teacher. Using this app as context, create three user stories for the app. Be sure to include:
+
+* What features address the user story  
+  * What the user interface looks like throughout the user story  
+  * What data the app collects during this user story  
+  * What output the app produces during this user story
+
+
+```
+
 
 ```
 
   
 
-#### **Conclusion Questions**
-
-1. #### What would happen if a program tried to access a variable that was defined locally in another part of the program?
-
-   
+  4\.  How did you interpret and respond to the [Essential Questions](https://pltw.read.inkling.com/a/b/71ce293152cf4873b7395f3d59c64a57/p/eaa565b3fdff4caf934e512a8ad2bfad#f6cb8e11689a4270b18ccb018d8cc56a)? Capture your thoughts for future conversations.
 
 ```
 
-```
-
-   
-
-2. #### How does one of the algorithms in your program function? Use natural language to describe the algorithm as if you were explaining it to your friend who has not taken this course yet.
-
-   
 
 ```
 
-```
-
-   
-
-3. #### How did you interpret and respond to the [Essential Questions](https://pltw.read.inkling.com/a/b/71ce293152cf4873b7395f3d59c64a57/p/34fcafaa509d40dcae30604ef2033cdc#acfcb056c84f47f9ba8d010a474826de)? Capture your thoughts for future conversations.
-
-#### 	
-
-```
-
-```
-
-## Design View
-
-## Code View
-
-## Additional Features
-
-## 
-
-## Reflection on what you learned
-
-## 
-
-# 1.1.4 Application Test Out
-
+### Dont forget the AIA file.
 | Task | Status | Notes |
 | :---- | :---- | :---- |
 | UI Design – Easy to follow | Not started |  |
 | Code Free of Errors | In progress |  |
 | User Error Checks | Not started |  |
 | Knowledge of Code Blocks | Not started |  |
+
+# 
 
