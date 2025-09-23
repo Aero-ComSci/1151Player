@@ -1,7 +1,7 @@
 # Activity 1.1.5
 
 ## Requirements
-1. Add the features to 114 according to the PLTW activity [pltw 115](https://pltw.read.inkling.com/a/b/71ce293152cf4873b7395f3d59c64a57/p/eaa565b3fdff4caf934e512a8ad2bfad)
+1. Add the features to 114 according to the PLTW activity [pltw 115]([https://pltw.read.inkling.com/a/b/71ce293152cf4873b7395f3d59c64a57/p/eaa565b3fdff4caf934e512a8ad2bfad](https://classroom.pltw.org/learn/course/computer-science-essentials/unit-1-creative-computing-building-with-blocks/lesson-11-introduction-to-computer-science-essentials?client=ac-1214105496&page=10))
 2. Complete the Read me, Here or copy paste into a doc then import the PDF to repository
 3. Random implementation via loops. The program should use loops as implementation to a problem.
 4. Complete the activity pair programming with your table partner.
