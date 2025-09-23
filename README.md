@@ -10,7 +10,7 @@
    * Both students should sign on to repository.
    * Both Students should implement the program in one project.
 
-## Action Items
+## Challenges
 1. Add a binary search algorithm component
 2. Add a visual component to the app to show the user what they have guessed.
 
